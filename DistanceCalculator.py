@@ -5,4 +5,4 @@ def distance (x , y):
 x =float (input("Enter the X Coordinate: "))
 y =float (input("Enter the Y Coordinate: "))
 
-print ("The Distance is:", distance(x, y))
+print ("The Distance is:", distance(x, y)) 
