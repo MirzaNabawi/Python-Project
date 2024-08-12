@@ -1,4 +1,3 @@
-#code
 import math
 def distance (x , y):
     return math.sqrt(abs(x)**2 + abs(y)**2)
